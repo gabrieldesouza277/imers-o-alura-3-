@@ -1,0 +1,6 @@
+{
+  "name": "Google Antigravity Tasks | Dev na Era da IA",
+  "description": "Sistema inteligente de gerenciamento de tarefas para desenvolvedores na Era da IA com Google Antigravity Agent, modo gravidade zero e inteligência artificial para decomposição e solução de tarefas de código.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
